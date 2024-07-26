@@ -150,7 +150,7 @@ footer h2 {
     transition: transform 0.3s;
 }
 
-.contact-icon img:hover {
+contact-icon img:hover {
     transform: scale(1.1);
 }
 
